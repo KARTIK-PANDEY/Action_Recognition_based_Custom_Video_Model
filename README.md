@@ -2,7 +2,7 @@
 # ACTION RECOGNITION BASED CUSTOM VIDEO MODEL 
 Custom ava dataset, Multi-Person Video Dataset Annotation Method of Spatio-Temporally Actions
 
-My paper in arxiv::[A Multi-Person Video Dataset Annotation Method of
+paper in arxiv::[A Multi-Person Video Dataset Annotation Method of
 Spatio-Temporally Actions](https://arxiv.org/pdf/2204.10160.pdf)
 
 AVA paper：[https://arxiv.org/pdf/1705.08421.pdf](https://arxiv.org/pdf/1705.08421.pdf)
