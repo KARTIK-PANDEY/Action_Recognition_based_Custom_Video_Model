@@ -8,8 +8,8 @@ Spatio-Temporally Actions](https://arxiv.org/pdf/2204.10160.pdf)
 AVA paper：[https://arxiv.org/pdf/1705.08421.pdf](https://arxiv.org/pdf/1705.08421.pdf)
 
 CSDN：[https://blog.csdn.net/WhiffeYF/article/details/124358725](https://blog.csdn.net/WhiffeYF/article/details/124358725)
-知乎：[https://zhuanlan.zhihu.com/p/503031957](https://zhuanlan.zhihu.com/p/503031957 )
-B站：[https://www.bilibili.com/video/BV1j3411M7Ba/](https://www.bilibili.com/video/BV1j3411M7Ba/)
+[https://zhuanlan.zhihu.com/p/503031957](https://zhuanlan.zhihu.com/p/503031957 )
+[https://www.bilibili.com/video/BV1j3411M7Ba/](https://www.bilibili.com/video/BV1j3411M7Ba/)
 
 # 1 Dataset's folder structure
 
