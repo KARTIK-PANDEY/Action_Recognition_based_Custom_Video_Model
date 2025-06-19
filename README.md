@@ -1,4 +1,5 @@
-# Custom ava dataset, Custom Spatio Temporally Action Video Dataset
+## KARTIK PANDEY
+# ACTION RECOGNITION BASED CUSTOM VIDEO MODEL 
 Custom ava dataset, Multi-Person Video Dataset Annotation Method of Spatio-Temporally Actions
 
 My paper in arxiv::[A Multi-Person Video Dataset Annotation Method of
