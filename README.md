@@ -1,4 +1,4 @@
-## KARTIK PANDEY
+# KARTIK PANDEY
 # ACTION RECOGNITION BASED CUSTOM VIDEO MODEL 
 Custom ava dataset, Multi-Person Video Dataset Annotation Method of Spatio-Temporally Actions
 
